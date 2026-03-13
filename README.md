@@ -1,2 +1,4 @@
 # xiaobu1.github.io
-11111111
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
